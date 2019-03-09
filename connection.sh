@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ""
+echo "this is use of echo"
